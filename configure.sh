@@ -31,7 +31,7 @@ cat << EOF > /usr/local/etc/v2ray/config.json
       "network": "ws",
       "security": "auto",
       "wsSettings": {
-        "path": "/voicemail",
+        "path": "/",
       }
     }
         }
